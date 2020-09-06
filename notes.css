@@ -1,0 +1,100 @@
+
+.navbar-custom{
+  background-color: #b693fe;
+}
+
+.logo{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.heading{
+  font-family: 'Dancing Script', cursive;
+  color: #6fe7dd;
+  padding-top: 50px;
+  padding-bottom: 150px;
+;
+  font-size: 7em;
+}
+.starthead{
+  background-color: #b693fe;
+  text-align: center;
+  position: relative;
+  margin-bottom: 70px;
+}
+
+.cloudpic{
+  width:200px;
+  height: 160px;
+  position: absolute;
+  right: 22%;
+}
+
+.cloudpic2{
+  width:200px;
+  height: 160px;
+  position: absolute;
+  left: 22%;
+  top: 25%;
+  display: inline-block;
+}
+
+.tree1{
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  right: 320px;
+
+
+}
+
+.tree2{
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  left: 320px;
+}
+
+.content1{
+  text-align: center;
+}
+
+.head1{
+  color: #1e836c;
+  font-family: 'PT Sans', sans-serif;
+  margin-bottom: 25px;
+  font-size: 3em;
+}
+
+.head2{
+  color: #6fe7dd;
+  font-family: 'PT Sans', sans-serif;
+  margin-bottom: 25px;
+}
+
+.pic1{
+  margin: 40px auto 25px auto;
+  border-radius: 5%;
+  width: 750px;
+  height: 550px;
+}
+
+
+.head3{
+  margin: 20px 110px 30px 170px;
+  color: #1e836c;
+  font-family: 'PT Sans', sans-serif;
+  text-align: left;
+}
+
+
+.para{
+  margin: 5px 110px 30px 170px;
+  text-align: left;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.5em;
+  line-height: 1.7;
+  color: #545454;
+
+}

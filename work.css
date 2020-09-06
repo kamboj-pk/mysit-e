@@ -1,0 +1,158 @@
+
+.navbar-custom{
+  background-color: #b693fe;
+}
+
+.logo{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.heading{
+  font-family: 'Dancing Script', cursive;
+  color: #6fe7dd;
+  padding-top: 50px;
+  padding-bottom: 150px;
+;
+  font-size: 7em;
+}
+.starthead{
+  background-color: #b693fe;
+  text-align: center;
+  position: relative;
+  margin-bottom: 70px;
+}
+
+.cloudpic{
+  width:200px;
+  height: 160px;
+  position: absolute;
+  right: 22%;
+}
+
+.cloudpic2{
+  width:200px;
+  height: 160px;
+  position: absolute;
+  left: 22%;
+  top: 25%;
+  display: inline-block;
+}
+
+.tree1{
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  right: 320px;
+
+
+}
+
+.tree2{
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  left: 320px;
+}
+
+.content1{
+  margin-top: 80px;
+  text-align: center;
+}
+
+.pyimg{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 30px;
+}
+
+
+.head1{
+  color: #6fe7dd;
+  font-family: 'PT Sans', sans-serif;
+  margin-bottom: 25px;
+}
+
+.para{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.4;
+  color: #545454;
+  margin: 5px 350px 80px 350px;
+}
+
+.work1{
+  background-color: #fcbad3;
+  margin: 0;
+  text-align: center;
+}
+
+.pic1{
+  margin: 40px auto 25px auto;
+  border-radius: 3%;
+  width: 750px;
+  height: 550px;
+}
+
+.hbig{
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.hsml{
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.para1{
+  margin: 20px 200px 30px 200px;
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.4;
+}
+
+.bu1{
+
+  padding-bottom: 60px;
+  padding-top: 25px;
+}
+
+.work2{
+  background-color: #f76160;;
+  margin: 0;
+  text-align: center;
+}
+
+.pic2{
+  margin: 40px auto 25px auto;
+  border-radius: 3%;
+  width: 750px;
+  height: 550px;
+}
+
+.hbig2{
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.hsml2{
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.para2{
+  margin: 20px 200px 30px 200px;
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.4;
+}
+
+.bu2{
+
+  padding-bottom: 60px;
+  padding-top: 25px;
+}
